@@ -8,3 +8,7 @@ body {
 #title {
     color: blue;
 }
+
+.subtitle {
+    color: rgb(86, 86, 211);
+}
