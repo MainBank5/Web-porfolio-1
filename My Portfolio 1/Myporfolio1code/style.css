@@ -1,0 +1,10 @@
+body {
+    background-color: grey;
+    margin: 1%;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-weight: 20% ;
+}
+
+#title {
+    color: blue;
+}
