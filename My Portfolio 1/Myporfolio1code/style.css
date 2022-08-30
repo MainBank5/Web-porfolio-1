@@ -13,3 +13,9 @@ body {
     color: rgb(94, 94, 199);
     font-weight: 900;
 }
+
+.footer {
+    background-color: aquamarine;
+    color: red;
+    padding: 1%;
+}
